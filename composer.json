@@ -1,0 +1,20 @@
+{
+    "name": "adamgoose/commander",
+    "description": "",
+    "authors": [
+        {
+            "name": "Adam Engebretson",
+            "email": "adam@enge.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Adamgoose\\Commander": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
