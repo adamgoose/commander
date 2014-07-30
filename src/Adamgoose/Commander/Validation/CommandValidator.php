@@ -3,7 +3,7 @@
 use Illuminate\Validation\Factory;
 use Illuminate\Validation\Validator;
 use Str;
-use TAA\Commanding\BaseCommand;
+use Adamgoose\Commander\BaseCommand;
 
 abstract class CommandValidator {
 
